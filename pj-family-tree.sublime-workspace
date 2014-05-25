@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/sublime-grunt-build/grunt.sublime-build",
+	"command_palette":
+	{
+		"height": 332.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 773.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/.gitignore",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/.jshintignore",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/test/qunit/_badJS.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/css/style.css",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/html/index.html",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/html/benchmark-test.html",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/test/benchmark-this.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/test/qunit/qunit-test.html",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/test/benchmark-test.html",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/sample/test-plan.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/lib/someJavascript.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/QUnitChainer.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/qunitchainer.css",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/spec/SpecHelper.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/spec/QUnitChainerSpec.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/sample/test-this-object.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/0-monitor.html",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/_test_failures/test-plan.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/qunit/qunit.new.css",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/_test_passes/q-test3.html",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/sample/q-test4.html",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/QUnitChainer/_test_passes/test-plan.js",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/node_modules/qunitjs/test/headless.html",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/.npmignore",
+		"/D/d/s/github/grunt-test/grunt-test-jshint-uglify/LICENSE",
+		"/home/brent.cowgill/.config/sublime-text-3/Packages/sublime-grunt-build/grunt-build-on-save.py",
+		"/home/brent.cowgill/workspace/play/d3/WebContent/grunt-test/grunt-test-jshint-uglify/grunt-test.sublime-project",
+		"/home/brent.cowgill/.config/sublime-text-3/Packages/Grunt/Default.sublime-commands",
+		"/home/brent.cowgill/.config/sublime-text-3/Packages/Grunt/Main.sublime-menu",
+		"/home/brent.cowgill/.config/sublime-text-3/Packages/Grunt/package-metadata.json",
+		"/home/brent.cowgill/.config/sublime-text-3/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/home/brent.cowgill/workspace/play/d3/WebContent/grunt-test/grunt-test-jshint-uglify/README.txt",
+		"/home/brent.cowgill/workspace/play/d3/WebContent/grunt-test/grunt-test-jshint-uglify/package.json",
+		"/home/brent.cowgill/workspace/play/d3/WebContent/grunt-test/grunt-test-jshint-uglify/Gruntfile.js",
+		"/home/brent.cowgill/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/brent.cowgill/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/brent.cowgill/bin/disable-dojo-events.sh",
+		"/home/brent.cowgill/.config/sublime-text-3/Packages/User/HTML.sublime-settings",
+		"/home/brent.cowgill/workspace/play/d3/WebContent/svncode/commonCauseRadial.min.js"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/brent.cowgill/workspace/play/d3/WebContent"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uncaught",
+			"; ./",
+			"$FILE",
+			"\\$FILE",
+			"message thrown",
+			"notEqual",
+			"deepEqual",
+			"BSAC",
+			"real",
+			"background-color",
+			"background",
+			"#a6b779",
+			"#5e7d00",
+			"{",
+			"color",
+			"html-reporter",
+			"module",
+			"regex",
+			"RegExp",
+			"regexp",
+			">\n",
+			"Benchmark",
+			"module",
+			"console",
+			"same",
+			"equals",
+			"fail",
+			"monospace",
+			"fail",
+			"font-family",
+			"storage_size",
+			"storagesize",
+			"storage_size",
+			"simple",
+			"forKeys",
+			"collapseAllGroups",
+			"getGroupFilter",
+			"color",
+			"palette",
+			"processGroups",
+			"palette",
+			"ordinal",
+			"collapseGroup",
+			"fnFilter",
+			"dagreSize",
+			"dagre(s",
+			"dagre",
+			"dagre(s",
+			"dagre",
+			"setZoomMode",
+			"zoomType",
+			"Stuff",
+			"console.log(\">>",
+			"droppings",
+			"disable",
+			"BSAC",
+			"clean",
+			"zoomReset",
+			"zoomTo = ",
+			"\n	",
+			";\n",
+			"ratio",
+			"circle",
+			"doZoom",
+			"zoomer",
+			"computeZoomToSVG",
+			"d3bug.mouse",
+			"mouse",
+			"BSAC",
+			"head",
+			"hair",
+			" == ",
+			"IE",
+			"console",
+			"meta",
+			"style",
+			"svg",
+			"utf-8",
+			"head",
+			"script",
+			"d3.event ="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"node ",
+			"%FILE%",
+			"notStrictEqual",
+			"strictEqual",
+			"green",
+			"QUnit.module",
+			"deepEqual",
+			"note(\">>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 349.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"test-this",
+				"QUnitChainer/sample/test-this-object.js"
+			],
+			[
+				"somejaca",
+				"lib/someJavascript.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 420.0,
+	"status_bar_visible": true
+}
