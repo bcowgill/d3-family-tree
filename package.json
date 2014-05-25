@@ -1,0 +1,48 @@
+{
+  "private": true,
+  "license": "Unlicense",
+  "version": "0.0.1",
+  "name": "d3-family-tree",
+  "title": "d3-family-tree",
+  "main": "d3-family-tree.js",
+  "description": "A family tree visualization for d3.js",
+  "keywords": [
+    "family tree",
+    "d3js",
+    "visualization"
+  ],
+  "author": "Brent S.A. Cowgill",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "directories": {
+    "doc": "./doc",
+    "man": "./man",
+    "lib": "./lib",
+    "bin": "./bin"
+  },
+  "config": {
+    "port": "8919"
+  },
+  "scripts": {
+    "devwebserver": "webserver.sh"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-contrib-csslint": "~0.2.0",
+    "grunt-lint5": "~0.3.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-qunit": "~0.3.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "extend": "~1.2.1",
+    "benchmark": "~1.0.0"
+  },
+  "optionalDevDependencies": {
+    "sublime-grunt-build": "~1.1.1"
+  },
+  "dependencies": {
+    "byline": "^4.1.1"
+  }
+}
