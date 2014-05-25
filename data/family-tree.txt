@@ -1,25 +1,25 @@
 # family tree
 # ID; Sex; [Common Names] Names (Nickname(s)); b:YYYY; pm:ID; pf:ID; cn:1 m:1:YYYY:ID; d:YYYY;
-# b=born d=died pm=parent mother pf=parent father cn=child number m=married (number,year)
+# b=born d=died pm=parent mother pf=parent father cn:child number m=married (number,year)
 JohnHarryChristopherCowgillKit1907; M; [John Harry] Christopher Cowgill (Kit); b:1907; d:1982; m:1:IrisThomson; m:2:AmyCooper;
 IrisThomson; F; Iris Thomson; m:JohnHarryChristopherCowgillKit1907;
 AmyCooper; F; Amy Cooper; m:JohnHarryChristopherCowgillKit1907;
-TimothyCowgill1933; M; Timothy Cowgill; b:1933 pm:IrisThomson; pf:JohnHarryChristopherCowgillKit1907; cn=1; m:Agnes;
+TimothyCowgill1933; M; Timothy Cowgill; b:1933; pm:IrisThomson; pf:JohnHarryChristopherCowgillKit1907; cn:1; m:Agnes;
 Agnes; F; Agnes; m:TimothyCowgill1933;
-SeanCowgill; M; Sean Cowgill; b:1971; pm:Agnes; pf:TimothyCowgill1933; cn=1;
-VanessaCowgill1974; F; Vanessa Cowgill; b:1974; pm:Agnes; pf:TimothyCowgill1933; cn=2;
-RogerCowgill1935; M; Roger Cowgill; b:1935; pm:IrisThomson; pf:JohnHarryChristopherCowgillKit1907; cn=2; m:Patricia;
+SeanCowgill; M; Sean Cowgill; b:1971; pm:Agnes; pf:TimothyCowgill1933; cn:1;
+VanessaCowgill1974; F; Vanessa Cowgill; b:1974; pm:Agnes; pf:TimothyCowgill1933; cn:2;
+RogerCowgill1935; M; Roger Cowgill; b:1935; pm:IrisThomson; pf:JohnHarryChristopherCowgillKit1907; cn:2; m:Patricia;
 Patricia; F; Patricia; m:1:RogerCowgill1935;
-FionaCowgill1959; F; Fiona Cowgill; b:1959; pm:Patricia; cn=1; m:AlanCampbell;
+FionaCowgill1959; F; Fiona Cowgill; b:1959; pm:Patricia; cn:1; m:AlanCampbell;
 AlanCampbell; M; Alan Campbell; m:FionaCowgill1959;
-PhoebeCampbell; F; Phoebe Campbell; b:1989; pm:FionaCowgill1959; pf:AlanCampbell; cn=1;
-FreddieCampbell; M; Freddie Campbell; b:1991; pm:FionaCowgill1959; pf:AlanCampbell; cn=2;
-MichaelCowgill1960; M; Michael Cowgill; b:1960; pm:Patricia; pf:RogerCowgill1935 cn=2; m:ColetteColeman;
+PhoebeCampbell; F; Phoebe Campbell; b:1989; pm:FionaCowgill1959; pf:AlanCampbell; cn:1;
+FreddieCampbell; M; Freddie Campbell; b:1991; pm:FionaCowgill1959; pf:AlanCampbell; cn:2;
+MichaelCowgill1960; M; Michael Cowgill; b:1960; pm:Patricia; pf:RogerCowgill1935; cn:2; m:ColetteColeman;
 ColetteColeman; F; Colette Coleman; m:MichaelCowgill1960;
-NeomieCowgill1991; F; Neomie Cowgill; b:1991; pm:ColetteColeman; pf:MichaelCowgill1960; cn=1;
-TristramCowgill1993; M; Tristram Cowgill; b:1993; pm:ColetteColeman; pf:MichaelCowgill1960; cn=2;
-UnknownCowgill; X; Unknown Cowgill; pm:ColetteColeman; pf:MichaelCowgill1960; cn=3;
-JenniferElizabethCowgill1964; F; Jennifer Elizabeth Cowgill; b:1964; pm:Patricia; pf:RogerCowgill1935 cn=3; m:BillHiggs;
+NeomieCowgill1991; F; Neomie Cowgill; b:1991; pm:ColetteColeman; pf:MichaelCowgill1960; cn:1;
+TristramCowgill1993; M; Tristram Cowgill; b:1993; pm:ColetteColeman; pf:MichaelCowgill1960; cn:2;
+UnknownCowgill; X; Unknown Cowgill; pm:ColetteColeman; pf:MichaelCowgill1960; cn:3;
+JenniferElizabethCowgill1964; F; Jennifer Elizabeth Cowgill; b:1964; pm:Patricia; pf:RogerCowgill1935; cn:3; m:BillHiggs;
 BillHiggs; M; Bill Higgs; m:JenniferElizabethCowgill1964;
-MennaHiggs1999; F; Menna Higgs; b:1999; pm:JenniferElizabethCowgill1964; pf:BillHiggs; cn=1;
+MennaHiggs1999; F; Menna Higgs; b:1999; pm:JenniferElizabethCowgill1964; pf:BillHiggs; cn:1;
 
