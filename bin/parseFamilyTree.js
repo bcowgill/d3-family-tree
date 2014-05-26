@@ -9,6 +9,14 @@ var fs = require('fs'),
 
 var fileName = 'data/family-tree.txt';
 
+// TODO don't use this, use domains instead
+// not reached if process.abort()
+process.on('uncaughtException', function (code)
+{
+	console.log("in process.onUncaughtException. code=", code);
+	console.trace();
+});
+
 try
 {
 	var stream = fs.createReadStream(fileName);
