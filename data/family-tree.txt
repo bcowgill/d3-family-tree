@@ -1,7 +1,6 @@
 # family tree
 # ID; Sex; [Common Names] Names (Nickname(s)); b:YYYY; pm:ID; pf:ID; cn:1 m:1:YYYY:ID; d:YYYY;
 # b=born d=died pm=parent mother pf=parent father cn:child number m=married (number,year)
-JohnHarryChristopherCowgillKit1907; M; [John Harry] Christopher Cowgill (Kit); b:1907; d:1982; m:1:IrisThomson; m:2:AmyCooper;
 IrisThomson; F; Iris Thomson; m:JohnHarryChristopherCowgillKit1907;
 AmyCooper; F; Amy Cooper; m:JohnHarryChristopherCowgillKit1907;
 TimothyCowgill1933; M; Timothy Cowgill; b:1933; pm:IrisThomson; pf:JohnHarryChristopherCowgillKit1907; cn:1; m:Agnes;
@@ -22,4 +21,4 @@ UnknownCowgill; X; Unknown Cowgill; pm:ColetteColeman; pf:MichaelCowgill1960; cn
 JenniferElizabethCowgill1964; F; Jennifer Elizabeth Cowgill; b:1964; pm:Patricia; pf:RogerCowgill1935; cn:3; m:BillHiggs;
 BillHiggs; M; Bill Higgs; m:JenniferElizabethCowgill1964;
 MennaHiggs1999; F; Menna Higgs; b:1999; pm:JenniferElizabethCowgill1964; pf:BillHiggs; cn:1;
-
+JohnHarryChristopherCowgillKit1907; M; [John Harry] Christopher Cowgill (Kit); b:1907; d:1982; m:1:IrisThomson; m:2:AmyCooper;
